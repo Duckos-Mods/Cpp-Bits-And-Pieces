@@ -1,6 +1,6 @@
 #pragma once
 #include <unordered_map>
-#include "..\..\math.h"
+#include "math.h"
 
 template <typename instanceType>
 class VecBase2
